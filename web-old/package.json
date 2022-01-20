@@ -1,8 +1,8 @@
 {
-  "name": "alissa-k-doyle",
+  "name": "alissakdoyle.com",
   "version": "1.0.0",
   "private": true,
-  "description": "Alissa K Doyle",
+  "description": "alissakdoyle.com",
   "author": "Ryan Doyle",
   "keywords": [
     "gatsby"
@@ -15,11 +15,15 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "gatsby": "^4.5.4",
-    "gatsby-image": "^3.11.0",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@sanity/block-content-to-react": "^3.0.0",
+    "gatsby": "^4.5.2",
+    "gatsby-plugin-emotion": "^7.5.0",
+    "gatsby-plugin-image": "^2.5.1",
     "gatsby-plugin-react-helmet": "^5.5.0",
-    "gatsby-plugin-sharp": "^4.5.2",
-    "gatsby-source-filesystem": "^4.5.2",
+    "gatsby-plugin-sharp": "^4.5.1",
+    "gatsby-source-filesystem": "^4.5.1",
     "gatsby-source-sanity": "^7.3.2",
     "gatsby-transformer-sharp": "^4.5.0",
     "react": "^17.0.1",
